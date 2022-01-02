@@ -76,5 +76,5 @@ Either submit pull requests or create an issue on here.
    [docsbadge]: <https://readthedocs.org/projects/tg-userbot/badge/?version=latest>
    [support]: <https://t.me/tg_userbot_support>
    [redis]: <https://redislabs.com>
-   [heroku-deploy]: <https://heroku.com/deploy?template=https://github.com/kandnub/TG-UserBot>
+   [heroku-deploy]: <https://heroku.com/deploy?template=https://github.com/iotaop/TG-UserBot.git>
    [heroku-guide]: <https://tg-userbot.readthedocs.io/en/latest/basic/heroku.html>
